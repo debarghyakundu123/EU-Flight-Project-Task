@@ -1,8 +1,3 @@
 streamlit
-requests
-pandas
-mysql-connector-python
-streamlit
-pandas
-plotly
+pandas 
 sqlite3
