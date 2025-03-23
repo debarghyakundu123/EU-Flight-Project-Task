@@ -2,3 +2,7 @@ streamlit
 requests
 pandas
 mysql-connector-python
+streamlit
+pandas
+plotly
+sqlite3
