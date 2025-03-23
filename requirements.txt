@@ -1,5 +1,3 @@
-streamlit
-pandas 
-libsqlite3-dev
 sqlite3
-pysqlite3
+pandas
+streamlit
